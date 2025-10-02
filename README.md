@@ -1,5 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+This is an experiment in using the ttsky-verilog template as the basis for a library module. Each module can have it's own testbench and test runners and continue development while the taped out projects are being fabbed.
+
+
 # Tiny Tapeout Verilog Project Template
 
 - [Read the documentation for project](docs/info.md)
